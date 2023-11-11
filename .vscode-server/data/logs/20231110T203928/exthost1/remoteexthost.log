@@ -1,0 +1,16 @@
+2023-11-10 20:39:31.235 [info] Extension host with pid 694 started
+2023-11-10 20:39:31.274 [info] Lock '/home/jonatan/.vscode-server/data/User/workspaceStorage/29625c46be548837cc1c5081d4c7c24d/vscode.lock': Lock acquired.
+2023-11-10 20:39:31.396 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-11-10 20:39:31.399 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2023-11-10 20:39:31.711 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-11-10 20:39:32.260 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-11-10 20:39:32.261 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-11-10 20:39:33.066 [info] Eager extensions activated
+2023-11-10 20:39:33.067 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-11-10 20:39:33.068 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-11-10 20:40:05.555 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2023-11-10 20:40:51.499 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2023-11-10 20:42:56.125 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2023-11-10 20:52:17.757 [info] Extension host terminating: received terminate message from renderer
+2023-11-10 20:52:17.758 [info] Lock '/home/jonatan/.vscode-server/data/User/workspaceStorage/29625c46be548837cc1c5081d4c7c24d/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-11-10 20:52:18.008 [info] Extension host with pid 694 exiting with code 0

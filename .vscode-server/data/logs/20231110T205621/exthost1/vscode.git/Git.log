@@ -1,0 +1,25 @@
+2023-11-10 20:56:26.863 [info] Log level: Info
+2023-11-10 20:56:26.863 [info] Validating found git in: "git"
+2023-11-10 20:56:26.863 [info] Using git "2.34.1" from "git"
+2023-11-10 20:56:26.863 [info] > git rev-parse --show-toplevel [8ms]
+2023-11-10 20:56:26.863 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-11-10 20:56:26.863 [info] > git rev-parse --show-toplevel [7ms]
+2023-11-10 20:56:26.863 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-11-10 20:56:26.863 [info] > git rev-parse --show-toplevel [10ms]
+2023-11-10 20:56:26.863 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-11-10 20:56:35.232 [info] > git rev-parse --show-toplevel [117ms]
+2023-11-10 20:56:35.233 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-11-10 22:38:30.327 [info] > git rev-parse --show-toplevel [3ms]
+2023-11-10 22:38:30.340 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2023-11-10 22:38:30.367 [info] Open repository: /home/jonatan
+2023-11-10 22:38:30.392 [info] No remotes found in the git config file.
+2023-11-10 22:38:30.395 [info] > git config --get commit.template [14ms]
+2023-11-10 22:38:30.397 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [8ms]
+2023-11-10 22:38:30.738 [info] > git show --textconv :jonatan.html [12ms]
+2023-11-10 22:38:30.744 [info] > git ls-files --stage -- /home/jonatan/jonatan.html [9ms]
+2023-11-10 22:38:30.976 [info] > git check-ignore -v -z --stdin [2ms]
+2023-11-10 22:38:31.372 [info] > git status -z -uall [967ms]
+2023-11-10 22:38:32.616 [info] > git config --get commit.template [79ms]
+2023-11-10 22:38:32.709 [info] No remotes found in the git config file.
+2023-11-10 22:38:32.726 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [17ms]
+2023-11-10 22:38:32.944 [info] > git status -z -uall [172ms]

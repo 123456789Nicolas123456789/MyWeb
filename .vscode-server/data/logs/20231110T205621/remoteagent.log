@@ -1,0 +1,11 @@
+2023-11-10 20:56:21.263 [info] 
+
+
+
+
+2023-11-10 20:56:21.304 [info] Extension host agent started.
+2023-11-10 20:56:21.629 [info] [127.0.0.1][f14e0cc0][ManagementConnection] New connection established.
+2023-11-10 20:56:23.428 [info] [127.0.0.1][e758dc26][ExtensionHostConnection] New connection established.
+2023-11-10 20:56:23.438 [info] [127.0.0.1][e758dc26][ExtensionHostConnection] <643> Launched Extension Host Process.
+2023-11-10 20:58:45.118 [info] [127.0.0.1][e758dc26][ExtensionHostConnection] <643> [0mGET /favicon.ico [33m404[0m 2.820 ms - 150[0m
+

@@ -1,0 +1,14 @@
+{
+    "userDataProfilesMigration": true,
+    "profileAssociations": {
+        "workspaces": {},
+        "emptyWindows": {}
+    },
+    "profileAssociationsMigration": true,
+    "userDataProfiles": [
+        {
+            "location": "4b7e1404",
+            "name": "Jona"
+        }
+    ]
+}
